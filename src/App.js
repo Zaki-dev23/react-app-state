@@ -5,7 +5,7 @@ class App extends React.Component {
   state = {
     person: {
       fullName: 'Zakaria ait laasri',
-      bio: "ZAkaria ait laasri (Juin 20, 2000) was an Morrocain,I'm web devloper and physicien student.A Web Developer with two years of experience, specializing in HTML5, JavaScript, ReactJs, MySQL, database design,UX & UI desgin,back-end and front-end development. Adept at collaborating with dynamic teams to build high quality websites and identify opportunities to enhance the user experience...",
+      bio: "ZAkaria ait laasri (Juin 20, 2000) living in Morrocain,I'm web devloper and physicien student.A Web Developer with two years of experience, specializing in HTML5, JavaScript, ReactJs, MySQL, database design,UX & UI desgin,back-end and front-end development. Adept at collaborating with dynamic teams to build high quality websites and identify opportunities to enhance the user experience...",
       imgSrc: "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
       profession: "Software Developer"
     },
