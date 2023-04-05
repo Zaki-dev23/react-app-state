@@ -25,6 +25,8 @@ class App extends React.Component {
 
   handleToggle = () => {
     this.setState(prevState => ({ show: !prevState.show }))
+    this.state.show ? componentWillUnmout() : componentDidMount();
+    
   }
 
   render() {
